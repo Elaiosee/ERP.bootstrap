@@ -1,7 +1,11 @@
 .navbar {
-  margin-bottom:0;
-  border-radius:0;
-  background-color:#5E4485;
-/*text color*/
-  color:#FFF;
+  margin-bottom: 0;
+  border-radius: 0;
+  /*background color*/
+  background-color: #5E4485;
+  /*text color*/
+  color: #FFF;
+  padding: 1% 0;
+  font-size:1.2em;
+  border:0;
 }
