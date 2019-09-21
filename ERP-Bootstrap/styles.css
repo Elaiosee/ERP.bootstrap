@@ -47,6 +47,13 @@
   .carousel-caption{
     display:none;
   }
+  #icon{
+    max-width: 150px;
+  }h4
+   {
+    font size:1.7em;
+  }
+
 }
 /* spaces images below carosel out*/
 .container{
