@@ -66,11 +66,16 @@
 footer{
   width:100%;
   background-color: #5E4485;
-  padding:3%;
+  padding:5%;
   color:#FFF;
 }
 .fa {
   padding: 20px;
   font-size: 30px;
   color: #FFF;
+}
+.fa:hover {
+  color:D5D5D5;
+  text-decoration:none;
+
 }
