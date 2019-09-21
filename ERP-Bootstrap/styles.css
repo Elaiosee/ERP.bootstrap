@@ -48,3 +48,8 @@
     display:none;
   }
 }
+/* spaces images below carosel out*/
+#icon {
+  max-width: 200px;
+  margin:1% auto;
+}
