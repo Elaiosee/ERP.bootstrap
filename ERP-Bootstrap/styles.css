@@ -6,21 +6,24 @@
   /*text color*/
   color: #FFF;
   padding: 1% 0;
-  font-size:1.2em;
-  border:0;
+  font-size: 1.2em;
+  border: 0;
 }
+
 /*changes placing of the logo on the nav bar*/
-.navbar-brand{
-  float:left;
-  min-height:55px;
+.navbar-brand {
+  float: left;
+  min-height: 55px;
   padding: 0 15px 5px;
 }
+
 .navbar-inverse .navbar-nav .active a,
 .navbar-inverse .navbar-nav .active a:focus,
-.navbar-inverse .navbar-nav .active a:hover{
-color:#FFF;
-background-color:#5E4485
+.navbar-inverse .navbar-nav .active a:hover {
+  color: #FFF;
+  background-color: #5E4485
 }
-.navbar-inverse .navbar-nav li a{
+
+.navbar-inverse .navbar-nav li a {
   color: #D5D5D5;
 }
