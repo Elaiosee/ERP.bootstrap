@@ -37,9 +37,9 @@
 /*changes font and color of the button*/
 .btn{
   font-size:18px;
-  color:#FFF;
+  color:#000000;
   padding:12px 22px;
-  background:#5E4485;
+  background:#000000;
   border: 2px solid #FFF;
 }
 /*doesnt display these changes on mobile*/
