@@ -87,7 +87,10 @@ footer{
 img.touch{
   object-fit: fill;
 }
-.carousel-inner touch{
+.carousel-inner img{
   width:100%;
   margin:auto;
+}
+.touch-png{
+  object-fit: contain;
 }
