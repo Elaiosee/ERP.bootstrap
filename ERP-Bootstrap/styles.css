@@ -84,13 +84,9 @@ footer{
     font-size: 20px;
     padding:10px;
   }
-img.touch{
-  object-fit: fill;
-}
-.carousel-inner img{
-  width:100%;
-  margin:auto;
-}
-.touch-png{
-  object-fit: contain;
+
+
+.touch{
+  object-fit:contain;
+
 }
